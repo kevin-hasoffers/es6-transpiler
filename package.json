@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "es5-shim": "~4.0.0",
-    "es6-shim": "latest",
+    "es6-shim": "~0.24.0",
     "simple-fmt": "~0.1.0",
     "simple-is": "~0.2.0",
     "stringmap": "~0.2.0",
